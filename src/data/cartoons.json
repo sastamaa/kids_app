@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "yt_cartoon_01",
+    "title": "Фіксики - Вентилятор",
+    "category": "cartoons",
+    "contentType": "video",
+    "type": "youtube",
+    "source": "RjYodMyA4wM",
+    "thumbnail": "https://i.ytimg.com/vi/RjYodMyA4wM/hqdefault.jpg"
+  },
+   {
+    "id": "mp4_cartoon_01",
+    "title": "Big Buck Bunny",
+    "category": "cartoons",
+    "contentType": "video",
+    "type": "mp4",
+    "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4",
+    "thumbnail": "https://picsum.photos/seed/bunny/480/360"
+  }
+]
