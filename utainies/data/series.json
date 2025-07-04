@@ -1,0 +1,46 @@
+
+[
+  {
+    "id": "series_patron_01",
+    "title": "Пес Патрон",
+    "category": "series",
+    "contentType": "series",
+    "thumbnail": "https://i.ytimg.com/vi/kYel9v0s8pI/hqdefault.jpg",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "id": "s01e01_patron",
+            "title": "Зруйнований міст",
+            "type": "youtube",
+            "source": "kYel9v0s8pI"
+          },
+          {
+            "id": "s01e02_patron",
+            "title": "Агент під прикриттям",
+            "type": "youtube",
+            "source": "8o-p14tS_kM"
+          },
+          {
+            "id": "s01e03_patron",
+            "title": "Невидимий злодій",
+            "type": "youtube",
+            "source": "Dtxj9kYTSg8"
+          }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": [
+          {
+            "id": "s02e01_patron",
+            "title": "Приклад MP4",
+            "type": "mp4",
+            "source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
